@@ -1,0 +1,6 @@
+﻿  catFunc.c
+  listFunc.c
+C:\Users\Rokis\source\repos\Course1\Semester1(C tasks)\HomeTask4\HomeTask4\listFunc.c(155,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main2.c
+  Generating Code...
+  HomeTask4.vcxproj -> C:\Users\Rokis\source\repos\Course1\Semester1(C tasks)\HomeTask4\Debug\HomeTask4.exe
